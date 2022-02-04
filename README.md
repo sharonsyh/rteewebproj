@@ -4,6 +4,11 @@
 # Description
 This site is a portfolio homepage for rtee, an artist at The Black Label.
 
+# Provided Service
+About page  
+Work page  
+Contact Page  
+
 # Setup/Installation Requirements
 Cafe24  
 STS4  
